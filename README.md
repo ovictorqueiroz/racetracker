@@ -9,7 +9,14 @@ Para o fã de velocidade que acompanha mais de uma categoria como F1, WEC, IMSA 
 
 
 ## Objetivo
-Exibir de forma rápida e fácil, direto na tela ou em forma de agenda, as datas e horários das categorias escolhidas pelo cliente.
+Exibir na parte principal:
+- Categoria escolhida pelo usuário
+- Data e hora da próxima corrida da categoria em questão
+- Nome do evento
+- Nome do circuito
+
+No menu "Próximos eventos"
+- Corrida seguinte à selecionada
 
 ## Stack utilizada
 ### FRONTEND
