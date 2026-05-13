@@ -16,7 +16,8 @@ Exibir na parte principal:
 - Nome do circuito
 
 No menu "Próximos eventos"
-- Corrida seguinte à selecionada
+- Próximas corridas das categorias selecionadas
+- Ver calendário completo
 
 ## Stack utilizada
 ### FRONTEND
