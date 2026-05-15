@@ -13,10 +13,10 @@ O Sistema deve:
     - Nome do circuito (Ex: Autódromo José Carlos Pace);
     - Plataformas onde será transmitido (Canais de TV/ Youtube) - A Confirmar
 - Filtrar exibição por categoria;
-- Permitir ao usuário alterar as categorias que deseja acompanhar;
+- Permitir ao usuário ler e atualizar as categorias que deseja acompanhar;
 - Exportar agendas para Google Calendar/Apple calendar com sincronização - A confirmar
-- Sistema de notificação por e-mail
+- Sistema de notificação por e-mail - A confirmar
 
 
 ## Requisitos Não-Funcionais
-- 
+- Responsividade mobile
