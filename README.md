@@ -26,5 +26,8 @@ No menu "Próximos eventos"
 ### BACKEND
 - PHP
 
+## Arquitetura
+MVC (Model-View-Controller);
+
 ## Status
 Em documentação

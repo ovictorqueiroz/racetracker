@@ -25,6 +25,9 @@ Criar uma plataforma rápida, simples, visualmente moderna e agradável, e basta
 ### Banco de dados
 - PostgreeSQL (A confirmar)
 
+## Arquitetura
+MVC (Model-View-Controller);
+
 ## Regras
 ### Must-do
 1. Sempre leia a documentação em primeiro lugar, antes de qualquer análise ou código;
