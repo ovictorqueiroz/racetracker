@@ -3,8 +3,8 @@
 ## usuario
 - idCliente (integer)
 - nomeUsuario (varchar)
+- email (varchar)
 - senha (varchar)
-- preferencias (integer)
 
 ## evento
 - idEvento (integer)
@@ -17,27 +17,27 @@
 
 ## preferencias_categoria 
 // tabela intermediária entre Categorias e Usuário. Ela mapeia quais categorias o usuário deseja acompanhar dentro da plataforma
-- idCliente
-- idCategoria
+- idCliente (integer)
+- idCategoria (integer)
 
 ## tipoEvento
-- idTipoEvento
-- descTipo
+- idTipoEvento (integer)
+- descTipo (varchar)
 
 ## categoria
-- idCategoria
-- nomeCategoria
+- idCategoria (integer)
+- nomeCategoria (varchar)
 
 ## campeonato
-- idCampeonato
-- nomeCampeonato
+- idCampeonato (integer)
+- nomeCampeonato (varchar)
 
 ## circuito
-- idCircuito
-- nomeCircuito
-- pais
-- cidade
-- extensao
-- numCurvas
+- idCircuito (integer)
+- nomeCircuito (varchar)
+- pais (varchar)
+- cidade (varchar)
+- extensao (varchar)
+- numCurvas (integer)
 
 
