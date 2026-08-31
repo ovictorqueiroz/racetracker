@@ -24,7 +24,7 @@ No menu "Próximos eventos"
 - HTML5
 - CSS (Tailwind)
 ### BACKEND
-- PHP
+- Java Spring Boot
 
 ## Arquitetura
 MVC (Model-View-Controller);
