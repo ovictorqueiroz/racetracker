@@ -3,12 +3,25 @@ Documentação das classes em Java
 ### classe Usuario
 
 @Id
-private int idCliente
+@GeneratedValue(strategy = GenerationType.IDENTITY)
+@Column (name = "idUsuario")
+private int idUsuario
+
 private String nomeUsuario
 private String emailUsuario
 private String senhaUsuario
 
 ### classe Categoria
 @Id
+@GeneratedValue(strategy = GenerationType.IDENTITY)
+@Column (name = "idCategoria")
 private int idCategoria
+
+
 private String nomeCategoria
+
+@ManyToMany
+@JoinTable(
+  joinColumns = @JoinColumn(name = "idUsuario");
+  inverseJoinColumn = @JoinColumn(name = "idCategoria")
+)
