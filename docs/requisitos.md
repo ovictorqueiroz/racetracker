@@ -15,7 +15,7 @@ O Sistema deve:
 - Filtrar exibição por categoria;
 - Permitir ao usuário ler e atualizar as categorias que deseja acompanhar;
 - Exportar agendas para Google Calendar/Apple calendar com sincronização - A confirmar
-- Sistema de notificação por e-mail - A confirmar
+- Sistema de notificação por Whatsapp ou e-mail
 
 
 ## Requisitos Não-Funcionais
